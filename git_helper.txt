@@ -1,2 +1,16 @@
 git papkamizda yaradiriq
 1. git init
+
+gite fix elemek istediyimiz fayllari elave edirik .
+2. git add .
+
+commit etmek yani versiyani yadda saxlamaq .
+3. git commit -m "ilkin versiya"
+
+Githubda yeni bir repozitori yaratmaq lazimdir. ve onu  local repo ile synxronize etmek lazimdi.
+yalniz bir defe
+
+git remote add origin git@github.com:IlhamliElshad/git-example.git
+git branch -M main
+git push -u origin main
+

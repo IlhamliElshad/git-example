@@ -1,0 +1,2 @@
+git papkamizda yaradiriq
+1. git init
